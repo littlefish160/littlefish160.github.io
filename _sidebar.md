@@ -1,4 +1,6 @@
 - Vue
     - [vue2和vue3的差别](./vue/vue2和vue3的差别.md)
 - webpack
+- 设计模式
+  - [工厂模式](./工厂模式.md)
 - 乱七八糟
